@@ -461,7 +461,7 @@ header.sticky{
     font-size: 2.1rem;
   }
   .home{
-    height: 85vh;
+    height: 100vh;
   }
 }
 @media (max-width: 450px){
