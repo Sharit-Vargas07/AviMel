@@ -117,7 +117,7 @@ section{
   margin-bottom: 10px;
 }
 .btn{
-  margin-top: 20px;
+  margin-top: 10px;
   display: inline-block;
   padding: 13px 40px;
   background: #078930;
@@ -192,7 +192,7 @@ header.sticky{
   color: #078930;
   text-transform: uppercase;
   letter-spacing: 6px;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
 }
 .holiday-text h2{
   font-size: 2.5rem;
