@@ -475,3 +475,14 @@ header.sticky{
     padding: 60px 3% 50px;
   }
 }
+@media (max-width: 300px){
+  header{
+    padding: 9px 3%;
+  }
+  header.sticky{
+    padding: 5px 3%;
+  }
+  section{
+    padding: 80px 3% 70px;
+  }
+}
