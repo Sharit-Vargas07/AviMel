@@ -53,6 +53,9 @@ header{
 .navbar a:hover{
   color: #078930; 
 }
+.navbar a.as{
+  color: #078930;
+}
 .h-right{
   display: flex;
   align-items: center;
